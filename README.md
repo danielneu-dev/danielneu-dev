@@ -50,7 +50,8 @@
 
 <br/>    
 
-## Github Stats  
+## Github Stats
+<div align="center">🌱 Big TODO right now, still need to append my entries; worked without Git before. 🌱</div>
 <table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=danielneu-dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
