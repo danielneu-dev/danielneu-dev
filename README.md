@@ -16,7 +16,7 @@
 
   Ich lerne derzeit **Java, HTML, CSS, JavaScript, C/C++, C#**
 
-  Frag mich was über **Java, CSS, MySQL oder Sonstiges [hier](https://github.com(danielneu-dev/danielneu-dev/issues)**
+  Frag mich was über **Java, CSS, MySQL oder Sonstiges**
 
   Fun Fact: **Otter halten beim Schlafen Händchen**
 
